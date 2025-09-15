@@ -1,4 +1,4 @@
-# 🗄️ Data Projects Repository
+# 🗄️ My Projects Repository
 
 ## Introduction
 
