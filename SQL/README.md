@@ -1,4 +1,4 @@
-# 🗄️ SQL Projects Repository
+# 🗄️ SQL Projects 
 ## Introduction
 
 This repository showcases a collection of SQL projects and exercises demonstrating skills in data querying, analysis, and manipulation. It includes projects involving:
