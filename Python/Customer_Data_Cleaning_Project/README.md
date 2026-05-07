@@ -116,4 +116,6 @@ Full_Name was split into First_name and Last_name columns for better usability i
 
 **Areesha Kamil**
 Data Analyst | Python, SQL, Power BI, Excel
-[LinkedIn](https://linkedin.com/in/areesha-kamil-5607b4265) | [GitHub](https://github.com/AreeshaSolangi)
+[LinkedIn↗](https://linkedin.com/in/areesha-kamil-5607b4265) | [GitHub↗](https://github.com/AreeshaSolangi) 
+
+[Customer Data Cleaning Notebook↗](https://github.com/AreeshaSolangi/Projects/blob/main/Python/Customer_Data_Cleaning_Project/Customer_Cleaned_Dataset.ipynb)
